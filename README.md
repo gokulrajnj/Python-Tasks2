@@ -1,8 +1,9 @@
-Assignment 2
+# Assignment 2
 
-# Task 1
-file name :`task2 1.py`
- This program takes a input and categorise it into odd or even by using modulous (%) operation .
-# Task 2
-file name : `task2 1.py`
- This program just prints the sum of integers from 1 to 50 using for loop.
+## Task 1  
+**File name:** `task2 1.py`  
+This program takes an input and categorises it into odd or even by using the modulus (`%`) operation.  
+
+## Task 2  
+**File name:** `task2 1.py`  
+This program prints the sum of integers from 1 to 50 using a for loop.  
